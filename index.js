@@ -1,1 +1,9 @@
-// Code your solutions in this file
+function countDown() {
+  let number = 10 ; 
+  while (number >= 0) {
+    console.log(number);
+    number--;    
+  }
+
+}
+ countDown();
